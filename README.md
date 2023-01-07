@@ -1,2 +1,3 @@
-#Tech Stacks used:- Ethereum, Solidity, Ganache Personal Blockchain, Metamask extension for Google Chrome.
- The user will upload pictures and those will be stored in a decentralized way. It’s a decentralized image-sharing platform.
+#Tech Stacks used:- PyQt5, QWebEngine, Python
+ Created a Clone of Google Search by using python.
+ The user can search like in google search, added back, forward, and reload buttons in the navbar and also the URL search bar.
